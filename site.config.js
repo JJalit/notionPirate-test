@@ -1,24 +1,24 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'cea7d8c053fe482cb56ae815480b633d',
+  rootNotionPageId: '655d731fb5b24495a36b47bd1cab5ee1',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '이재하',
-  domain: 'jaeha.it',
-  author: 'jaeha',
+  name: '장성현',
+  domain: 'SeongHyun.it',
+  author: 'SeongHyun',
 
   // open graph metadata (optional)
-  description: 'Welcome JJalit World!',
-  socialImageTitle: "JJalit Let's get it ",
+  description: 'Welcome SeongHyun World!',
+  socialImageTitle: "SeongHyun Let's get it ",
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
-  github: 'JJalit',
+  github: 'shjang2020',
   // linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
